@@ -6,6 +6,6 @@ My first repository in GitHub. For ideas
   Personal notes and exercises during *pytorch deep learning practice* video course. Each part will be accompanied by a video I made myself, which will be uploaded to BiliBili as a supplement.
 ## Temporary part for testing markdown language
 ### For testing function of *Quoting text*
-> If I have seen further, it is because I stand on the shoulders of giants.
+> If I have seen further, it is because I stand on the shoulders of giants
 
 to be finished
