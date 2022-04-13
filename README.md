@@ -27,4 +27,7 @@ this is a block of code:
 ### For testing function of *links*
 This is my page on Bilibili: [My Bilibili page](https://space.bilibili.com/1691902052?spm_id_from=333.1007.0.0)
 
+### For testing function of *relative links*
+this is the contribution guideline for this project: [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 to be finished
