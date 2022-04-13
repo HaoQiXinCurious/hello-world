@@ -28,6 +28,6 @@ this is a block of code:
 This is my page on Bilibili: [My Bilibili page](https://space.bilibili.com/1691902052?spm_id_from=333.1007.0.0)
 
 ### Testing of [relative links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
-this is the contribution guideline for this project: [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+This is the contribution guideline for this project: [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 to be finished
