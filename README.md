@@ -6,7 +6,7 @@ My first repository in GitHub. For ideas
   
   Project status: **To be completed**
 
-## 2. Study notes of *pytorch deep learning practice* course created by Hongpu Liu
+## 2. Study notes of *pytorch deep learning practice* course made by Hongpu Liu
   Personal notes and exercises during *pytorch deep learning practice* video course. Each part will be accompanied by a video I made myself, which will be uploaded to BiliBili as a supplement.
   
   Project status: **To be completed**
