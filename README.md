@@ -1,11 +1,13 @@
 # hello-world
 My first repository in GitHub. For ideas
 
-## My answers to exercises in *Machine Learning* by Zhihua Zhou(To be completed)
+## My answers to exercises in *Machine Learning* written by Zhihua Zhou
   My personal answers to all the exercises in *Machine Learning*. Therefore, the correctness of these answers is not guaranteed. Each chapter will be accompanied by a video I made myself, which will be uploaded to BiliBili as a supplement.
+  Project status: To be completed
 
-## Study notes of *pytorch deep learning practice* course by Hongpu Liu(To be completed)
+## Study notes of *pytorch deep learning practice* course written by Hongpu Liu
   Personal notes and exercises during *pytorch deep learning practice* video course. Each part will be accompanied by a video I made myself, which will be uploaded to BiliBili as a supplement.
+  Project status: To be completed
 
 ## Temporary part for testing markdown language
 ### For testing function of *quoting text*
