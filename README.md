@@ -12,10 +12,10 @@ My first repository in GitHub. For ideas
   Project status: To be completed
 
 ## Temporary part for testing markdown language
-### For testing function of **quoting text**
+### For testing function of *quoting text*
 > If I have seen further, it is because I stand on the shoulders of giants
 
-### For testing function of **quoting code**
+### For testing function of *quoting code*
 this is a piece of code: `pretend to be code`
 
 this is a block of code:
@@ -24,6 +24,7 @@ this is a block of code:
    code
 ```
 
-### For testing function of **links**
+### For testing function of *links*
+This is my page on Bilibili: [My Bilibili page](https://space.bilibili.com/1691902052?spm_id_from=333.1007.0.0)
 
 to be finished
