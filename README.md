@@ -12,10 +12,10 @@ My first repository in GitHub. For ideas
   Project status: To be completed
 
 ## Temporary part for testing markdown language
-### For testing function of *quoting text*
+### For testing function of [quoting text](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
 > If I have seen further, it is because I stand on the shoulders of giants
 
-### For testing function of *quoting code*
+### For testing function of [quoting code](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)
 this is a piece of code: `pretend to be code`
 
 this is a block of code:
@@ -24,10 +24,10 @@ this is a block of code:
    code
 ```
 
-### For testing function of *links*
+### For testing function of [links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 This is my page on Bilibili: [My Bilibili page](https://space.bilibili.com/1691902052?spm_id_from=333.1007.0.0)
 
-### For testing function of *relative links*
+### For testing function of [relative links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
 this is the contribution guideline for this project: [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 to be finished
