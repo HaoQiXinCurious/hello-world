@@ -30,4 +30,7 @@ This is my page on Bilibili: [My Bilibili page](https://space.bilibili.com/16919
 ### Testing of [relative links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
 This is the contribution guideline for this project: [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
+### Testing of [images](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
+This is a picture in this project:![image example](好奇.PNG)
+
 **To be finished**
