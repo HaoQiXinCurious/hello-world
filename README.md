@@ -33,4 +33,12 @@ This is the contribution guideline for this project: [Contribution guidelines fo
 ### Testing of [images](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 This is a picture in this project:![image example](好奇.PNG)
 
+### Testing of [nested lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#nested-lists)
+1. First list item
+   - First nested list item
+     - Second nested list item
+2. Second list item
+   - First nested list item in second list
+     - Second nested list item in second list
+
 **To be finished**
