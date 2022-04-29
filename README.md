@@ -46,4 +46,7 @@ This is a picture in this project:![image example](好奇.PNG)
 ### testing of [mentioning people and teams](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams)
 @HaoQiXinCurious What do I think about this readme file?
 
+### testing of [referencing issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests)
+Wait until I create an issue or pull request
+
 **To be finished**
