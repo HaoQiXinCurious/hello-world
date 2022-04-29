@@ -43,4 +43,7 @@ This is a picture in this project:![image example](好奇.PNG)
    - First nested list item in second list
      - Second nested list item in second list
 
+### testing of [Mentioning people and teams](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams)
+@HaoQiXinCurious What do I think about this readme file?
+
 **To be finished**
