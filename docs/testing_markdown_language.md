@@ -31,9 +31,10 @@ This is a picture in this project:![image example](好奇.PNG)
 ## testing of [mentioning people and teams](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams)
 @HaoQiXinCurious What do I think about this readme file?
 
-## testing of [referencing issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests)
+## testing of [task lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) and [referencing issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests)
 My pull requests: 
 - [x] https://github.com/HaoQiXinCurious/hello-world/pull/1
+- [ ] https://github.com/HaoQiXinCurious/hello-world/pull/2
 
 ## testing of [using emoji](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)
 :grinning::grinning::grinning:
