@@ -32,7 +32,8 @@ This is a picture in this project:![image example](好奇.PNG)
 @HaoQiXinCurious What do I think about this readme file?
 
 ## testing of [referencing issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests)
-This is my first pull request: https://github.com/HaoQiXinCurious/hello-world/pull/1
+My pull requests: 
+- [x] https://github.com/HaoQiXinCurious/hello-world/pull/1
 
 ## testing of [using emoji](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)
 :grinning::grinning::grinning:
