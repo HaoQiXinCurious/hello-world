@@ -12,4 +12,4 @@ My first repository in GitHub. For ideas
   Personal notes and exercises during *pytorch deep learning practice* video course. Each part will be accompanied by a video I made myself, which will be uploaded to BiliBili as a supplement.
   
   Project status: **To be completed**
-testing
+testing2
